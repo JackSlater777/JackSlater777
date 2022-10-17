@@ -16,4 +16,3 @@
 ![GoogleAPI](https://img.shields.io/badge/-Google_API-090909?style=for-the-badge&logo=google)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=Testrail)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
