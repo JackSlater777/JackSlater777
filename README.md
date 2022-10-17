@@ -6,7 +6,7 @@
 [Link to my CV](https://drive.google.com/file/d/1FIhGnM8cb1qEnmsRbj7_61TzWDO5sZe4/view?usp=sharing)
 
 ### Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ivan-karazanov-0a2664243/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ivan-karazanov/)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E9D54D)
