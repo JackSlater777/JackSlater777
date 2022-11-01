@@ -13,7 +13,7 @@
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
-![Allure](https://img.shields.io/badge/-Allure-090909?style=for-the-badge&logo=allure)
+![Allure](https://img.shields.io/badge/-Allure-090909?style=for-the-badge&logo=allure-report)
 ![GoogleAPI](https://img.shields.io/badge/-Google_API-090909?style=for-the-badge&logo=google)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=Testrail)
