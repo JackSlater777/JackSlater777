@@ -1,6 +1,6 @@
 ![Header](https://github.com/JackSlater777/JackSlater777/blob/main/assets/header.png)
 
-### Certified python developer. Experienced in manual and automation testing software, interfaces, games.
+### Certified python developer. Specialized in testing the backend of microservice architecture. Experienced in manual and automation testing software, interfaces.
 
 ### My CV
 [Link to my CV](https://drive.google.com/file/d/1FIhGnM8cb1qEnmsRbj7_61TzWDO5sZe4/view?usp=sharing)
