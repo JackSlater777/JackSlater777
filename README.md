@@ -2,8 +2,9 @@
 
 ### Certified python developer. Specialized in testing the backend of microservice architecture. Experienced in manual and automation testing software, interfaces.
 
-### My CV
-[Link to my CV](https://drive.google.com/file/d/1FIhGnM8cb1qEnmsRbj7_61TzWDO5sZe4/view?usp=sharing)
+[//]: # (### My CV)
+
+[//]: # ([Link to my CV]&#40;https://drive.google.com/file/d/1FIhGnM8cb1qEnmsRbj7_61TzWDO5sZe4/view?usp=sharing&#41;)
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ivan-karazanov/)
