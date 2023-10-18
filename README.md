@@ -1,6 +1,6 @@
 ![Header](https://github.com/JackSlater777/JackSlater777/blob/main/assets/header.png)
 
-### Certified python developer. Specialized in testing the backend of microservice architecture. Experienced in manual and automation testing software, interfaces.
+### Certified python developer. Specialized in testing the backend of microservice architecture.
 
 ### My CV
 
