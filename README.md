@@ -26,3 +26,6 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=4169E1)
 ![Wiremock](https://img.shields.io/badge/-Wiremock-090909?style=for-the-badge)
 ![AllureTestOps](https://img.shields.io/badge/-AllureTestOps-090909?style=for-the-badge&logo=allure-report)
+
+### Icon source for badges
+![Link](https://simpleicons.org)
