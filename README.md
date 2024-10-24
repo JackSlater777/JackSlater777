@@ -28,4 +28,4 @@
 ![AllureTestOps](https://img.shields.io/badge/-AllureTestOps-090909?style=for-the-badge&logo=allure-report)
 
 ### Icon source for badges
-![Simple Icons](https://img.shields.io/badge/-Simple_Icons-090909?style=for-the-badge&logo=simpleicons)
+[![Simple Icons](https://img.shields.io/badge/-Simple_Icons-090909?style=for-the-badge&logo=simpleicons)](https://simpleicons.org/)
